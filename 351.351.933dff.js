@@ -6387,7 +6387,7 @@
     },
     53657: (e, t, s) => {
       "use strict";
-      e.exports = s.p + "assets/img/high-grass.d5181c.svg";
+      e.exports = s.p + "assets/img/high-grass.d5181c.png";
     },
     64042: (e, t, s) => {
       "use strict";
