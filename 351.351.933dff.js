@@ -2373,7 +2373,7 @@
                     }),
                     (0, r.jsxs)(_.X, {
                       priority: null == e ? void 0 : e.loadingPrio,
-                      alt: "Moon chasing a Chumbi in the forest. The Chumbi has stolen one of Moon's carrots and is holding it in it’s mouth while mischievously running away.",
+                      alt: "Moon chasing aDegeSinoin the forest. TheDegeSinohas stolen one of Moon's carrots and is holding it in it’s mouth while mischievously running away.",
                       ref: C,
                       children: [
                         (0, r.jsx)("source", {
@@ -2454,14 +2454,14 @@
         y = {
           desktop: [
             "be your most loyal and loving companions as you journey through",
-            "the valley. Breed and raise new Chumbi on your farm and set out",
+            "the valley. Breed and raise newDegeSinoon your farm and set out",
             "together to unlock every item, feature and secret this enchanting",
             "world has to offer.",
           ],
           tablet: [
             "creatures who will be your most loyal and loving",
             "companions as you journey through the valley.",
-            "Breed and raise new Chumbi on your farm and",
+            "Breed and raise newDegeSinoon your farm and",
             "set out together to unlock every item, feature",
             "and secret this enchanting world has to offer.",
           ],
@@ -2470,7 +2470,7 @@
             "who will be your most loyal and",
             "loving companions as you journey",
             "through the valley. Breed and raise",
-            "new Chumbi on your farm and set",
+            "newDegeSinoon your farm and set",
             "out together to unlock every item,",
             "feature and secret this enchanting",
             "world has to offer.",
@@ -2890,7 +2890,7 @@
                     }),
                     (0, r.jsxs)(i.X, {
                       priority: null == e ? void 0 : e.loadingPrio,
-                      alt: "A void and neutral Chumbi walking in the grass facing the sunset in the middle of the valley",
+                      alt: "A void and neutralDegeSinowalking in the grass facing the sunset in the middle of the valley",
                       className: "character",
                       children: [
                         (0, r.jsx)("source", {
@@ -3131,7 +3131,7 @@
           ],
           tablet: [
             "Discover all that DegeSino has to offer",
-            "with your Chumbi companions by your side.",
+            "with yourDegeSinocompanions by your side.",
           ],
           mobile: [
             "Discover all that DegeSino",
@@ -3855,7 +3855,7 @@
                     }),
                     (0, r.jsxs)(u.X, {
                       priority: 1,
-                      alt: "Moon, the main character of DegeSino and her 3 Chumbi looking out over the valley",
+                      alt: "Moon, the main character of DegeSino and her 3DegeSinolooking out over the valley",
                       className: "cliff parallax-item",
                       children: [
                         (0, r.jsx)("source", {
@@ -3960,7 +3960,7 @@
                           "combinations-section__desc desc-1 color-white",
                         ref: x,
                         children:
-                          "Combining the 15 main Chumbi types with hundreds of coats, body parts, and patterns results in almost infinite unique Chumbi!",
+                          "Combining the 15 mainDegeSinotypes with hundreds of coats, body parts, and patterns results in almost infinite unique Chumbi!",
                       }),
                     ],
                   }),
@@ -4022,7 +4022,7 @@
           tablet: {
             p1: [
               "$DGNO is DegeSino's on-chain token and is deeply",
-              "tied into every aspect of the Chumbi ecosystem.",
+              "tied into every aspect of theDegeSinoecosystem.",
             ],
             p2: [
               "$DGNO will facilitate gamers and investors alike to get",
@@ -4035,7 +4035,7 @@
             p1: [
               "$DGNO is DegeSino's primary",
               "token and is deeply tied into every",
-              "aspect of the Chumbi ecosystem.",
+              "aspect of theDegeSinoecosystem.",
             ],
             p2: [
               "$DGNO will facilitate gamers and",
@@ -4199,7 +4199,7 @@
                     }),
                     (0, r.jsxs)(k.X, {
                       priority: null == e ? void 0 : e.loadingPrio,
-                      alt: "Main character on a path near some ruins, putting a coin in the basket that his frost Chumbi is holding",
+                      alt: "Main character on a path near some ruins, putting a coin in the basket that his frostDegeSinois holding",
                       ref: E,
                       className: "main-img",
                       children: [
@@ -4504,7 +4504,7 @@
               imgSrcJpg: `${s(88721)}`,
               imgSrcWebp: `${s(42774)}`,
               imgAlt:
-                "A Spark Chumbi in front of a table with many ressources and ingredients ready to craft something",
+                "A SparkDegeSinoin front of a table with many ressources and ingredients ready to craft something",
               title: "Interoperable Assets",
               desc: {
                 desktop:
@@ -4562,19 +4562,19 @@
           desc: [
             "The Roulette wheel at DegeSino isn't just a game; it's an experience. As the ball dances across the numbers, players will feel the exhilaration synonymous with traditional casinos, but with a twist. Each spin is recorded on the blockchain, ensuring unparalleled transparency and fairness. ",
             "Enter the digital realm of DegenSino's Slots, where each pull of the lever could lead to a jackpot or a unique crypto reward. Our slots are more than just flashy graphics and sounds; they're a gateway to a decentralized world of chance and fortune.",
-            "These wondrous, verdant Chumbi find their home in the lush, rugged forests and gentle meadows of the valley. They are loyal and dedicated wardens that serve as the keepers of seedlings and ancient trees alike.",
-            "These shy, burrowing Chumbi watch over the vast and mysterious realm of the subterranean. Therefore, these hard working excavators play an unseen yet important role in tending to the valley's underground domain.",
-            "Temperamental, mischievous and energetic, Spark Chumbi are considered the embodiment of nature's fury. They bring life to powerful thunderstorms and excel at clearing grounds to provide the necessary conditions for new life to thrive.",
-            "For centuries these resilient and patient guardians have served as the valley's rocky shield and watchful eye. As such, these vigilant and steadfast Chumbi dwell on the highest of cliffs, quietly gazing upon valley.",
-            "Adaptable and clever, Neutral Chumbi are resourceful jack-of-all-trades who work to preserve balance within the valley. These kind beings are far from boring and plain, instead, they fill a wide range of roles as needed.",
-            "These industrious and diligent Chumbi can be seen traversing the entire valley in order to ensure that seeds are spread and plants are pollinated and fertilized. What's more, they produce a delicious syrup beloved by all Chumbi.",
-            "Feather Chumbi are the watchful children of the sky. These keen and independent avian-like beings are the guardians and guides of the winds and clouds, moving rain and pollen to where they need to be. They also happen to be excellent singers.",
-            "Frost Chumbi are the heralds of winter and protectors of the valley's icy alpine glaciers. These cheerful beings march down into the valley each year to bring snow and facilitate hibernation, rest and recovery for nature.",
-            "The creative and elegant Crystal Chumbi are the embodiment of the valley's raw beauty. They gather and shape unrefined spiritual essence from the Primordial Tree's roots, binding it into gorgeous and potent formations of arcane crystal and ore.",
-            "Flower Chumbi are the fragrant Harbingers of spring that paint the valley in a vivid palette of colors each year, after winter. These gentle, caring beings embody new life and are responsible for tending to the valley's many flowers and fruits.",
-            "Stewards of the wild and master of the feral beast, Creature Chumbi watch over the myriad of animals that dwell within the rocky walls of the valley. Although generally laid back, they are fierce and highly protective when provoked.",
-            "Mischievous, intelligent and curious, Spirit Chumbi are the mysterious stewards of the arcane and magical aspects of the valley. They absorb lunar energy from the moon and stars and weave it into potent spirit energy.",
-            "Void Chumbi are the enigmatic revenants of the unknown. These rare nocturnal Chumbi are largely misunderstood as the haunting realm of Void still holds many secrets, all of which kept by these frightening yet beautiful beings.",
+            "These wondrous, verdantDegeSinofind their home in the lush, rugged forests and gentle meadows of the valley. They are loyal and dedicated wardens that serve as the keepers of seedlings and ancient trees alike.",
+            "These shy, burrowingDegeSinowatch over the vast and mysterious realm of the subterranean. Therefore, these hard working excavators play an unseen yet important role in tending to the valley's underground domain.",
+            "Temperamental, mischievous and energetic, SparkDegeSinoare considered the embodiment of nature's fury. They bring life to powerful thunderstorms and excel at clearing grounds to provide the necessary conditions for new life to thrive.",
+            "For centuries these resilient and patient guardians have served as the valley's rocky shield and watchful eye. As such, these vigilant and steadfastDegeSinodwell on the highest of cliffs, quietly gazing upon valley.",
+            "Adaptable and clever, NeutralDegeSinoare resourceful jack-of-all-trades who work to preserve balance within the valley. These kind beings are far from boring and plain, instead, they fill a wide range of roles as needed.",
+            "These industrious and diligentDegeSinocan be seen traversing the entire valley in order to ensure that seeds are spread and plants are pollinated and fertilized. What's more, they produce a delicious syrup beloved by all Chumbi.",
+            "FeatherDegeSinoare the watchful children of the sky. These keen and independent avian-like beings are the guardians and guides of the winds and clouds, moving rain and pollen to where they need to be. They also happen to be excellent singers.",
+            "FrostDegeSinoare the heralds of winter and protectors of the valley's icy alpine glaciers. These cheerful beings march down into the valley each year to bring snow and facilitate hibernation, rest and recovery for nature.",
+            "The creative and elegant CrystalDegeSinoare the embodiment of the valley's raw beauty. They gather and shape unrefined spiritual essence from the Primordial Tree's roots, binding it into gorgeous and potent formations of arcane crystal and ore.",
+            "FlowerDegeSinoare the fragrant Harbingers of spring that paint the valley in a vivid palette of colors each year, after winter. These gentle, caring beings embody new life and are responsible for tending to the valley's many flowers and fruits.",
+            "Stewards of the wild and master of the feral beast, CreatureDegeSinowatch over the myriad of animals that dwell within the rocky walls of the valley. Although generally laid back, they are fierce and highly protective when provoked.",
+            "Mischievous, intelligent and curious, SpiritDegeSinoare the mysterious stewards of the arcane and magical aspects of the valley. They absorb lunar energy from the moon and stars and weave it into potent spirit energy.",
+            "VoidDegeSinoare the enigmatic revenants of the unknown. These rare nocturnalDegeSinoare largely misunderstood as the haunting realm of Void still holds many secrets, all of which kept by these frightening yet beautiful beings.",
           ],
         },
         a = [];
@@ -4872,9 +4872,9 @@
           output: {
             path: "index.html",
             href: "/",
-            title: "NFT Play&Earn Game - Explore, Farm, Breed & Battle",
+            title: "DegeSino",
             description:
-              "Explore a mystical forest valley & spend many relaxing hours raising adorable NFT creatures called Chumbi",
+              "",
             image: "chumbi-valley-og.jpg",
             imageWidth: 1200,
             imageHeight: 630,
@@ -4888,9 +4888,9 @@
             path: "gamefeatures/index.html",
             href: "/gamefeatures",
             title:
-              "Gameplay Features - DegeSino: Explore, Farm, Craft & Breed",
+              "",
             description:
-              "Discover the rich and varied game mechanics that make DegeSino so satisfying to play",
+              "",
             image: "chumbi-valley-og.jpg",
             imageWidth: 1200,
             imageHeight: 630,
@@ -4935,7 +4935,7 @@
             href: "/gallery",
             title: "Art & fan-art gallery - DegeSino",
             description:
-              "Discover the latest art, screenshots and illustrations from our game and from the Chumbi community",
+              "Discover the latest art, screenshots and illustrations from our game and from theDegeSinocommunity",
             image: "chumbi-valley-og.jpg",
             imageWidth: 1200,
             imageHeight: 630,
@@ -4965,7 +4965,7 @@
             href: "/about",
             title: "Team and partnership - DegeSino",
             description:
-              "Discover our passionate team, working hard to bring the Chumbi universe to life",
+              "Discover our passionate team, working hard to bring theDegeSinouniverse to life",
             image: "chumbi-valley-og.jpg",
             imageWidth: 1200,
             imageHeight: 630,
